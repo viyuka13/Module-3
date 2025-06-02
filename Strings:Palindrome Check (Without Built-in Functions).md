@@ -13,8 +13,14 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 
-Add code here
-
+      s = "google"
+      rev = s[::-1]
+      if s == rev:
+          print("The string is a palindrome.")
+      else:
+          print("The string is not a palindrome.")
 ## Output
+![image](https://github.com/user-attachments/assets/c5be19aa-9aeb-42c8-9765-004fd15672f1)
 
 ## Result
+The Python program to check if the string "google" is a palindrome using slicing has been executed successfully, and the output has been verified.
