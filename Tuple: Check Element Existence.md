@@ -10,8 +10,11 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
-
+    x = ('a', 'b', 'c', 'n', 5, 9, 10)
+    print('n' in x)
+    print(8 in x)
 ## Output
+![image](https://github.com/user-attachments/assets/5205aeea-2f03-4a89-8124-57018d16f84f)
 
 ## Result
+The Python program to check the presence of elements in a tuple using the in operator has been executed successfully, and the output has been verified.
